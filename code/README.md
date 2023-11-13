@@ -1,2 +1,3 @@
-# dataset_ufo
-UFO sighting data between 2020 and 2023.
+# dataset_ufo/code
+
+Web scraping code used to create the dataset.
